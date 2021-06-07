@@ -5,4 +5,4 @@
 * 企業調べ
 
 ## 1. programming課題
-pythonでclassを使った課題を進めた
+python3でclassを使った課題を進めた
