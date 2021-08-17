@@ -1,6 +1,6 @@
 # GraduationTasks2021
 
-## Amazonモニタリングアプリ
+## ECサイト価格監視アプリ 
 
 ### Member
 - [n20021 比嘉　涼](https://github.com/n20021/GraduationTasks)
